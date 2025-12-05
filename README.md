@@ -1,7 +1,5 @@
 # Admin Support – Data Entry Tasks
 
----
-
 A small project converting unstructured text into clean, well‑formatted CSV spreadsheets to demonstrate accuracy, consistency, and attention to detail in data entry work. It demonstrates the ability to:
 
 - Convert unstructured text into clean, structured tables  
