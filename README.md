@@ -21,7 +21,7 @@ The project contains two focused tasks:
 These examples are intentionally kept small so the structure, formatting, and overall quality of the work can be reviewed at a glance.
 
 ## Project Tree
-
+```
 admin-support-data-entry/
 ├─ README.md
 ├─ clean_data.py
@@ -34,7 +34,7 @@ admin-support-data-entry/
 │ └─ products_clean.csv
 └─ documentation/
 └─ data_entry_process.md
-
+```
 
 ## Folder Structure
 
