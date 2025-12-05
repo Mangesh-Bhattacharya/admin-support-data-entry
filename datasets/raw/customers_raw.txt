@@ -1,0 +1,4 @@
+John Smith, john.smith@example.com, 555-123-4567
+  Maria   Garcia | maria.garcia@example.com | 555-222-3333
+RAHUL PATEL - rahul.patel@example.com - 555-888-9999
+emily  chen emily.chen@example.com 555-101-2020
