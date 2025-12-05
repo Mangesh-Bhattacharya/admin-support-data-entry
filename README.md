@@ -8,11 +8,7 @@ A small project converting unstructured text into clean, well‑formatted CSV sp
 
 ## Project Overview
 
-<<<<<<< HEAD
 The project contains two focused tasks:
-=======
-The project contains two simple tasks:
->>>>>>> 6720b76d1fb34bb4c9dd655480ad13561383a064
 
 1. **Customer List Cleanup**  
    - Input: Raw text list of customers with inconsistent formatting  
@@ -39,10 +35,6 @@ admin-support-data-entry/
 └─ documentation/
 └─ data_entry_process.md
 
-<<<<<<< HEAD
-=======
-These examples are intentionally kept small so the structure, formatting, and overall quality of the work can be reviewed at a glance.
->>>>>>> 6720b76d1fb34bb4c9dd655480ad13561383a064
 
 ## Folder Structure
 
