@@ -1,10 +1,14 @@
 # Admin Support – Data Entry Tasks
 
+---
+
 A small project converting unstructured text into clean, well‑formatted CSV spreadsheets to demonstrate accuracy, consistency, and attention to detail in data entry work. It demonstrates the ability to:
 
 - Convert unstructured text into clean, structured tables  
 - Maintain accuracy and consistency  
 - Organize files clearly so that clients can quickly review the work  
+
+---
 
 ## Project Overview
 
@@ -20,21 +24,26 @@ The project contains two focused tasks:
 
 These examples are intentionally kept small so the structure, formatting, and overall quality of the work can be reviewed at a glance.
 
+---
+
 ## Project Tree
 ```
 admin-support-data-entry/
+├─ datasets/
+│  ├─ raw/
+│  │  ├─ customers_raw.txt
+│  │  └─ products_raw.txt
+│  └─ clean/
+│     ├─ customers_clean.csv
+│     └─ products_clean.csv
+└─ documentation/
+   └─ data_entry_process.md
+├─ LICENSE
 ├─ README.md
 ├─ clean_data.py
-├─ datasets/
-│ ├─ raw/
-│ │ ├─ customers_raw.txt
-│ │ └─ products_raw.txt
-│ └─ clean/
-│ ├─ customers_clean.csv
-│ └─ products_clean.csv
-└─ documentation/
-└─ data_entry_process.md
 ```
+
+---
 
 ## Folder Structure
 
@@ -51,6 +60,7 @@ admin-support-data-entry/
 
 The `clean_data.py` script reads the raw text files, cleans and standardizes the data, and generates the final CSV files in the `datasets/clean` folder.
 
+---
 
 ## Tools Used
 
