@@ -8,7 +8,7 @@ A small project converting unstructured text into clean, well‑formatted CSV sp
 
 ## Project Overview
 
-The project contains two focused tasks:
+The project contains two simple sample tasks:
 
 1. **Customer List Cleanup**  
    - Input: Raw text list of customers with inconsistent formatting  
@@ -18,23 +18,7 @@ The project contains two focused tasks:
    - Input: Raw text list of products with mixed information in each line  
    - Output: Clean `products_clean.csv` ready to be imported into a spreadsheet or system  
 
-These examples are intentionally kept small so the structure, formatting, and overall quality of the work can be reviewed at a glance.
-
-## Project Tree
-
-admin-support-data-entry/
-├─ README.md
-├─ clean_data.py
-├─ datasets/
-│ ├─ raw/
-│ │ ├─ customers_raw.txt
-│ │ └─ products_raw.txt
-│ └─ clean/
-│ ├─ customers_clean.csv
-│ └─ products_clean.csv
-└─ documentation/
-└─ data_entry_process.md
-
+These examples are small on purpose so clients can quickly see the quality of the work.
 
 ## Folder Structure
 
