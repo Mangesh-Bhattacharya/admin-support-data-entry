@@ -1,5 +1,5 @@
 full_name,email,phone
-John Smith,john.smith@example.com,555-123-4567
-Maria Garcia,maria.garcia@example.com,555-222-3333
-Rahul Patel,rahul.patel@example.com,555-888-9999
-Emily Chen,emily.chen@example.com,555-101-2020
+John Smith,john.smith@example.com,555
+Maria,garcia,maria.garcia@example.com
+Rahul Patel,rahul.patel@example.com,555
+Emily,chen emily.chen@example.com 555,101
